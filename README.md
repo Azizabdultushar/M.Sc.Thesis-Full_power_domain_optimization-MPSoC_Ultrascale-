@@ -1,1 +1,2 @@
-# M.Sc.Thesis-Full_power_domain_optimization-MPSoC_Ultrascale-
+# M.Sc.Thesis
+# Full power domain optimization:MPSoC_Ultrascale+
