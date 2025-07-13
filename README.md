@@ -1,9 +1,13 @@
-# M.Sc.Thesis:Full power domain optimization.
-Specifications:
-HW board: Kria KR260 SOM + Carrier card/board (Robotics starter kit).
-Chip: MPSoC zynq ultrascale+ based silicon device
-size: 
-Tools: Vivado 2023.2 Vitis 2023.2 and Petalinux 2023.2; Vivado/SDK/PetaLinux 20xx.x installed (important do not mix versions!)
+### M.Sc.Thesis:Full power domain optimization.
+## Specifications:
+# HW board: Kria KR260 SOM + Carrier card/board (Robotics starter kit).
+# Chip: MPSoC zynq ultrascale+ based silicon device
+# size: 60x77mm SOM 132x140mm Carrier card
+# sys logic cells: 256K
+# Block RAM blocks: 144
+# UltraRAM blocks: 64
+# DSP Slices 1.2K
+# Tools: Vivado 2023.2 Vitis 2023.2 and Petalinux 2023.2; Vivado/SDK/PetaLinux 20xx.x installed (important do not mix versions!)
 
 Create Vivado Project, configure PS, Export HDF (XSA for 19.2 and newer)
 Ceate new PetaLinux project
