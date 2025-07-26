@@ -1,4 +1,18 @@
-# M.Sc.Thesis:Full power domain optimization.
+# M.Sc.Thesis:Low-Power Design techniques for FPGA-Based Under water Robotics Computing: A Power Gating Approach.
+
+### Motivation:
+Energy consumption is one of the main constraints in the current era of multicore heteroge-
+neous systems. Energy Proportional Computing (EPC) has emerged as a solution to deliver
+only the energy required by a given application.[3] Deep-sea computing is among the most
+power-constrained applications compared to other domains. One of the most effective techniques
+in EPC is power gating[4] of unused blocks in heterogeneous multicore system-on-chip (SoC)
+architectures. To achieve high computational throughput, a neural processing unit—typically
+implemented in the Programmable Logic (PL) fabric—is required as a hardware accelerator.
+Power gating is particularly effective in this context, as idle PL units contribute significantly to
+static power consumption. Modern Field-Programmable Gate Arrays (FPGAs) support partial
+and dynamic reconfiguration, which enables integration of power gating strategies.[5]
+
+
 ### Specifications:
 
 ### Hardware
